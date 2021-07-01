@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Causal Inference with Machine Learning using R
+Causal Inference
